@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ChatApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/myMessageTextColor</item>
+    </style>
+        <style name="MyFabStyle" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:tint">@color/white</item>
+            <item name="icon">@drawable/ic_add</item>
+        </style>
+    <style name="Theme.ChatApp" parent="Base.Theme.ChatApp" />
+
+</resources>

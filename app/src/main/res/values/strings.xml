@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="friends">Friends?</string>
+    <string name="ready_to_meet">Ready to meet</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="add_image">Add Image</string>
+    <string name="chat">chat!</string>
+    <string name="begin_your_funny">Begin your Funny</string>
+    <string name="chat1">Chat</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="myMessageColor">#D0ECE8</color>
+    <color name="yourMessageColor">#E4E4E4</color>
+    <color name="myMessageTextColor">#007665</color>
+    <color name="secondaryTextColor">#DEDEDE</color>
+    <color name="inputMessageColor">#F6F6F6</color>
+    <color name="titleSignIn">#9C9797</color>
+    <color name="inputStroke">#E5E5E5</color>
+</resources>
