@@ -1,5 +1,5 @@
 
-# Online Movie Database
+# Online Chat App
 
 This app is an online chat app that allows you to add and chat with diffrent users.
 
